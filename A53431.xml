@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon the acts for annuities</title>
+            <author>Orme, Thomas, d. 1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53431</idno>
+            <idno type="STC">Wing O436A</idno>
+            <idno type="STC">ESTC R216597</idno>
+            <idno type="EEBO-CITATION">99828323</idno>
+            <idno type="PROQUEST">99828323</idno>
+            <idno type="VID">32750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1856:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon the acts for annuities</title>
+                  <author>Orme, Thomas, d. 1716.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Thomas Orme.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Annuities --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  England --  1688-1815 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:32750:1"/>
+            <p>Errata in the Appeal.</p>
+            <p>
+               <hi>PAge</hi> 8. <hi>l.</hi> 10. for no Child read nor Child. <hi>p.</hi> 27. <hi>l.</hi> 31. for diſper'd read diſpers'd. <hi>p.</hi> 39. <hi>l.</hi> 33. for I thing read I think. In the Obſervations, <hi>p.</hi> 7. <hi>agitur, paries cum proximus, p.</hi> 12. <hi>l.</hi> 20. 80000. <hi>p.</hi> 20. <hi>l.</hi> 21. <hi>Oſtende.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="observations">
+            <pb n="1" facs="tcp:32750:1"/>
+            <head>OBSERVATIONS Upon the ACTS for ANNUITIES.</head>
+            <p>THE Acts for <hi>Annuities</hi> are Four, whereby two con<g ref="char:EOLhyphen"/>ſiderable <hi>Supplies</hi> for the <hi>War</hi> have been granted upon one <hi>Fund.</hi> The two firſt Acts raiſed a Million as ſpeedily as could be imagined, the two laſt for 618000<abbr>
+                  <hi>l.</hi>
+               </abbr> have not yet raiſed that Sum: The <hi>Reaſons</hi> will be en<g ref="char:EOLhyphen"/>deavoured to be obſerved by this Paper, and the <hi>Remora's</hi> will be attempted to be removed with regard to, and alſo preſervation of His Majeſty's Intereſt and Prerogative, with the Honour and Methods of Parliament; and alſo the publick and private Pro<g ref="char:EOLhyphen"/>perty of very many Subjects.</p>
+            <p>Which, with Submiſſion to better Judgments, the firſt <hi>rub</hi> or <hi>difficulty</hi> that ſeems to be in the way for hindring the raiſing the laſt Sum, is a Clauſe in the firſt Act, <hi>Fol.</hi> 221. which ſays, <hi>That no Contributers to the Million ſhall advance any further Sum upon the Terms or Advantages.</hi> This Clauſe may be ſaid to be Superceded or Repeal'd by the two laſt Acts, which yet is only conſequenti<g ref="char:EOLhyphen"/>ally; for neither of the two laſt Acts take notice of that Clauſe expreſly.</p>
+            <p>Secondly, Both the firſt Acts for the Million ſeem to take eſpecial Care that His Majeſty ſhall not <hi>raiſe</hi> any Sum upon that <hi>Fund</hi> exceeding the <hi>Million;</hi> and there ſeems to be a labour to pre<g ref="char:EOLhyphen"/>vent the King's <hi>diſpoſal</hi> of any Sum that ſhall riſe upon this <hi>Fund,</hi> in caſe it ſhall raiſe in any Year or Years, any Sum or Sums over
+<pb n="2" facs="tcp:32750:2"/>and above the <hi>Security</hi> or <hi>Compenſation</hi> for the <hi>Million.</hi> And if it ſhall happen to raiſe more, it is called a <hi>Surplus,</hi> which has a <hi>Ba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> over it not agreeable with the Title of a <hi>Gift,</hi> and may be f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther taken notice of hereafter.</p>
+            <p>The Third Obſervation of theſe Acts is, that in caſe the Sum ſhall <hi>full ſhort</hi> of what is intended to be raiſed, then there is allowed a <hi>borrowing Clauſe,</hi> which is but 5 <hi>
+                  <abbr>l.</abbr> per Cent</hi> which being leſs than the King allows in other Caſes, and by other Acts, is the reaſon why the Sum of 618000<abbr>
+                  <hi>l.</hi>
+               </abbr> intended for the <hi>War,</hi> is not raiſed by <hi>borrowing,</hi> though the <hi>Fund</hi> ſhould come up to the full <hi>expectation,</hi> and a <hi>Surpluſage,</hi> which is fear'd by many; and therefore unwilling to venture the Purchaſing the <hi>remaining years</hi> after the Life they have already. But that <hi>Jealouſie</hi> may be removed if we get over this laſt <hi>Obſervation:</hi> which is,</p>
+            <p>Fourthly, That none of the Four Acts take particular notice of <hi>Nominees dying,</hi> which will make the moſt material part of this Diſcourſe.</p>
+            <p>In the firſt place ſome are of Opinion, that all ſuch <hi>Annuities</hi> by the firſt Acts as ceaſe by the Death of the <hi>Nominee</hi> or <hi>Nominees,</hi> ſhall come within the Acceptation of a <hi>Surpluſage,</hi> and that they are the King's and his Heirs; which, with ſubmiſſion to better Judgments, I cannot comprehend by theſe Acts to be a <hi>Surpluſage;</hi> but rather a <hi>Gift of Providence</hi> than a Gift of the Parliament: But whether it be determined a <hi>Surpluſage</hi> or not, the Limitation leſſens the Grant, and appears to be a clipping the Wings of the Gift, if not of the Prerogative.</p>
+            <p>But to ſtick cloſe to the buſineſs of theſe Acts for <hi>Supplies</hi> to the <hi>War;</hi> at preſent the 618000<abbr>
+                  <hi>l.</hi>
+               </abbr> cannot be raiſed by theſe laſt Acts, be<g ref="char:EOLhyphen"/>cauſe none of them take notice directly of the <hi>Nominees deceaſed,</hi> which ought to be in being, as a <hi>foundation for a Sale of further Term or Years:</hi> And it is natural to conclude, that had the Parliament taken notice of <hi>Nominees deceaſing,</hi> they would have ſet more Years than Five for the Purchaſes; and yet on the other hand it would have ſounded harſh to Debate or Vote the <hi>Sale</hi> of what was <hi>faln</hi> to the King; yet that waved, the King is ſuppoſed to have a greater Sum for the <hi>War</hi> than is really raiſed. It is confeſſed the Crown may have the Sum in <hi>Reverſion,</hi> if the <hi>Fund</hi> anſwers <hi>expectation:</hi> But that does not keep up the Met<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds of Parhament for raiſing the <hi>expreſs Sum</hi> to carry on the <hi>War,</hi> unleſs the King <hi>borrows</hi> upon it, which at 5 <hi>per Cent.</hi> he is not like to do for the Reaſons above.</p>
+            <pb n="3" facs="tcp:32750:2"/>
+            <p>Moreover it is the Diſcourſe of many <hi>Nominees</hi> in being, that the <hi>Fund falls ſhort</hi> of ſatisfying the <hi>Survivorſhips</hi> and <hi>Nominees</hi> in being at 14 <hi>
+                  <abbr>l.</abbr> per Ann.</hi> (which is another Diſcouragement of <hi>purchaſing the Years over</hi>) and therefore hope and expect, that what ſhall <hi>fall</hi> by <hi>Deaths</hi> ſhall be employed to their <hi>ſatisfa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ions;</hi> which being allow'd, the King has neither the Five Years <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſent for the <hi>War,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cor<g ref="char:EOLhyphen"/>ding to the Intent of the Acts, no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Fund</hi> to <hi>borrow</hi> upon; the conſequence whereof will ad<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a longer Diſcourſe than I ſhall preſume upon</p>
+            <p>My buſineſs at preſent being only to take off <hi>Jealouſies,</hi> and clear the <hi>Miſtakes</hi> that ſeemingly appear: Which to do effectually, I muſt firſt be aſſiſted by a Me<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> out of my Compaſs, that is, <hi>The Examination of the Accounts</hi> as the A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts appoint; for thoſe will de<g ref="char:EOLhyphen"/>monſtrate what the <hi>Fund</hi> affor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and alſo the number of the <hi>No<g ref="char:EOLhyphen"/>minees dead;</hi> whereby will appear the <hi>defect</hi> of the Sum expreſſed and rely'd upon, and then the <hi>Ways and Means</hi> to <hi>ſupply</hi> the <hi>defici<g ref="char:EOLhyphen"/>ency</hi> will be the eaſier undertaken. To which I ſhall humbly offer this further.</p>
+            <p>In caſe the <hi>Fund</hi> ſhall <hi>fall ſhort</hi> for raiſing the 618000<abbr>
+                  <hi>l.</hi>
+               </abbr> accor<g ref="char:EOLhyphen"/>ding to the Intention of the Acts, then the Parliament will ſee the Difficulties the King has been under, and conſequently for their Honour will find a <hi>Supply.</hi>
+            </p>
+            <p>In caſe the <hi>Fund</hi> anſwers the Intention, by Publiſhing the ſame all <hi>Jealouſies</hi> are taken off from the <hi>Nominees in being,</hi> and thoſe that have not <hi>purchaſed the Term over,</hi> ought to declare whether they will <hi>purchaſe</hi> or not; for many may be willing to <hi>purchaſe</hi> that are not willing to break the civil Methods, that is, to <hi>purchaſe</hi> over another Man's head. It is confeſſed the two laſt Acts have given time for <hi>Perſons in poſſeſſion</hi> to come in, and after the limitation, free<g ref="char:EOLhyphen"/>dom to <hi>others;</hi> but the Reaſons above have cauſed a ſlackneſs.</p>
+            <p>And moreover ſome living have been fearful that if the <hi>Fund</hi> ſhall hold up to the expectation, many <hi>Nominees being dead,</hi> the <hi>Re<g ref="char:EOLhyphen"/>verſion unpurchaſed,</hi> the Parliament ta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing notice thereof, may in the end of a Seſſion wanting a little Sum, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Charge</hi> upon it, which will continue a <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bject,</hi> and take off all proſpect of <hi>Advantage</hi> to the <hi>King</hi>
+            </p>
+            <p>Therefore taking all the Premiſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> together they raiſe a deter<g ref="char:EOLhyphen"/>mination that it's requiſite or neceſſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Acts b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>re<g ref="char:EOLhyphen"/>viewed,</hi> and if what ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been obſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true, then a Fifth may enſue, which may bring all to <hi>Accom<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ati<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> for which e<g ref="char:EOLhyphen"/>very Paragraph hitherto is but as ſo many <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wheels or Move<g ref="char:EOLhyphen"/>ments
+<pb n="4" facs="tcp:32750:3" rendition="simple:additions"/>in Clock-work, wanting the moſt material part or principal Spring to ſet all agoing rightly, according to my undertaking in the beginning.</p>
+            <p>Which when I explain, if the <hi>Reader,</hi> be not <hi>Courteous,</hi> he will ſuddenly conclude all this is but as a Windmil puft about with <hi>Self-Intereſt:</hi> I will confeſs there is ſomething of that in the bottom, and I hope I may be pardon'd if I ſay I ſee few move in the World that have not ſomething tending that way, and if I ſhould ſtand as a mark at <hi>Charing-Croſs</hi> to be flung at by any one that comes that way, without ſome <hi>Selfiſhneſs</hi> I might come off without a <hi>Broken Head.</hi> And if my <hi>Endeavours</hi> for the <hi>preſervation</hi> of the <hi>Laws eſta<g ref="char:EOLhyphen"/>bliſhed,</hi> the <hi>undertakings</hi> and <hi>ſufferings</hi> for <hi>preventing Arbitrary Power</hi> and <hi>Popery,</hi> without Deſigns in thoſe points for <hi>Self-Intereſt</hi> were as well known, as theſe Acts are of concern, perhaps I ſhould not be deeply cenſured for putting my ſelf into a <hi>publick concern</hi> for ſome <hi>recompence;</hi> which I hope the Reader will allow to be modeſt; for I do refer my ſelf to the <hi>King</hi> and <hi>Parliament</hi> to give me what pro<g ref="char:EOLhyphen"/>portion or ſcantling of time they ſhall think fit, if I live to the en<g ref="char:EOLhyphen"/>joyment of what I aim at, after the Government has moved accor<g ref="char:EOLhyphen"/>ding to its own ſteps, for I ask no profit till the <hi>King</hi> and his <hi>People</hi> have reaped their hoped for <hi>Satisfaction;</hi> in caſe they allow or ap<g ref="char:EOLhyphen"/>prove the <hi>Hinge</hi> all this former diſcourſe hangs upon, which in con<g ref="char:EOLhyphen"/>cluſion is thus:</p>
+            <p>
+               <hi>That his</hi> Majeſty <hi>nominate a</hi> Nominee <hi>or</hi> Nominees <hi>to ſupply the pla<g ref="char:EOLhyphen"/>ces of thoſe</hi> dead <hi>as a</hi> Foundation <hi>to</hi> Purchaſe <hi>upon, at five Years, that is paying</hi> Seventy Pounds <hi>into the Exchequer for each</hi> Fourteen Pound per Annum, <hi>and ſo proportionably for greater Sums; for which his Majeſty to allow ſo many years for</hi> Principal <hi>and</hi> Intereſt, <hi>and al<g ref="char:EOLhyphen"/>ſo to me as</hi> Conduit Pipe <hi>or</hi> Nominee <hi>ſuch time as his</hi> Majeſty <hi>with the</hi> Parliament <hi>ſhall think fit: during which time</hi> Tallies <hi>to be given, and</hi> Payments equivalent <hi>with the original</hi> Purchaſers <hi>according to the methods of the Acts. And after the Expiration of the time limited, to</hi> revert <hi>to the</hi> King <hi>and</hi> Crown <hi>clear and not chargeable by</hi> Parlia<g ref="char:EOLhyphen"/>ment; <hi>nor to be</hi> diſpoſed <hi>of ſo as to</hi> leſſen <hi>the</hi> ſecurity <hi>of others in caſe the</hi> Fund <hi>ſhall fall ſhort; Nor ſhall any</hi> allowances <hi>be made to any per<g ref="char:EOLhyphen"/>ſon whatſoever, till the</hi> Seventy Pounds <hi>and ſo upwards be firſt paid into the</hi> Exchequer <hi>for a</hi> Tally <hi>or</hi> Tallies; which with ſubmiſſion to Perſons of better Experience in Affairs, comprehends the <hi>In<g ref="char:EOLhyphen"/>tentions</hi> of all the <hi>Acts</hi> with <hi>Honour</hi> and <hi>Intereſt</hi> to all in general and particular. In which if I miſtake I ask pardon, and ſhall for the future endeavour to ſpend the ſhort time I have left in abſolute Obſcurity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
